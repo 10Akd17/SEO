@@ -1,0 +1,71 @@
+body{
+    background-color: rgb(231, 231, 231);
+}
+
+.container{
+    width: 60%;
+}
+.nav-item a{
+    right: 100px;
+
+}
+.nav-link text-light{
+
+}
+
+li a{
+    float: right;
+}
+.jumbotron{
+    background-color: rgb(255, 255, 255);
+    padding:30px;
+    border-radius: 1px;
+}
+.divcard { 
+    padding: 2px;
+    margin-left: 11px;
+    margin-top: 20px;    
+
+}
+.card{
+    display: block;
+    text-align: center;
+    float: left;
+    margin-left: 30px;
+}
+.card:first-child{
+    margin-left: -13px;
+}
+.card:nth-child(2){
+    margin-left: 30px;
+}
+.card:last-child{
+    margin-left: 39.5px;
+}
+
+
+.card a{
+    color: tomato;
+    font-size: 0.8rem;
+    text-decoration: none;
+}
+.card-body3{
+    margin-left: -10px;
+}
+
+.parag1{
+    width: 60%;
+    margin-top: 20px;
+}
+footer{
+    margin-top: 150px;
+}
+
+
+h2{
+    font-size: 1.5rem;
+}
+.p1{
+    font-size: 0.9em;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}

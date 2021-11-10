@@ -1,3 +1,21 @@
 body{
     
 }
+.container{
+    width: 60%;
+}
+.card{
+    float: left;
+}
+.navbar navbar-expand-lg navbar-light bg-light{
+    display: inline-block;
+}
+.nav-item a{
+    margin-left: 500px;
+
+}
+
+.card{
+
+    text-align: center;
+}
